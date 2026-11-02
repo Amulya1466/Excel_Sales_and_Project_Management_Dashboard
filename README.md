@@ -32,7 +32,6 @@ The dataset contains transactional sales data including:
 - Quantity
 - Profit
 
-*Note: This dataset is for learning and portfolio purposes.*
 
 ---
 
