@@ -88,19 +88,6 @@ The dataset contains transactional sales data including:
 
 ---
 
-## 📂 Project Structure
-
-```
-Excel-Sales-Dashboard/
-│
-├── Sales Dashboard.xlsx
-├── Dataset.xlsx
-├── dashboard.png
-└── README.md
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
